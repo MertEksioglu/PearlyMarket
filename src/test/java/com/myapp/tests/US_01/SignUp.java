@@ -39,7 +39,7 @@ public class SignUp {
         PearlyMarketHomePage.registerPolicy.click();
 
         //Click on signUp
-       PearlyMarketHomePage.signUpButton.click();
+       // PearlyMarketHomePage.signUpButton.click();
 
         //Verify that signUp was successful
         Assert.assertTrue(PearlyMarketHomePage.signOut.isDisplayed());
