@@ -1,4 +1,4 @@
-package com.myapp.tests.US_02;
+package com.myapp.tests.US_03;
 
 public class TC_001 {
 
